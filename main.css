@@ -1,0 +1,32 @@
+body{
+   background-image:linear-gradient(to right, #A8B5BF, #465E73);
+}
+
+.foto-pessoal{
+    display: flex;
+    margin:auto;
+    
+    border: 2px solid;
+    border-radius: 150px;
+}
+
+a{
+    color: black;
+}
+
+p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 50px;
+}
